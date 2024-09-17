@@ -19,6 +19,7 @@
 </div>
 
 <div align="center">
+  <img src="https://img.shields.io/badge/thymeleaf-005F0F.svg?style=for-the-badge&logo=thymeleaf&logoColor=61DAFB" />&nbsp
   <img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />&nbsp
   <img src="https://img.shields.io/badge/javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=20232a" />&nbsp
   <img src="https://img.shields.io/badge/html5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />&nbsp
@@ -40,6 +41,12 @@
 <br>
 
 <h3 align="center">🛠 Tools 🛠</h3>
+<div align="center">
+  <img src="https://img.shields.io/badge/apachetomcat-apachetomcat.svg?style=for-the-badge&logo=apachetomcat&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/amazonwebservices-232F3E.svg?style=for-the-badge&logo=amazonwebservices&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/jenkins-#D24939.svg?style=for-the-badge&logo=jenkins&logoColor=white" />&nbsp
+</div>
+
 <div align="center">
   <img src="https://img.shields.io/badge/docker-2496ED.svg?style=for-the-badge&logo=docker&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/dbeaver-382923.svg?style=for-the-badge&logo=dbeaver&logoColor=white" />&nbsp
