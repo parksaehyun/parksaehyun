@@ -5,7 +5,7 @@
 </div>
 
 <!--내용 부분-->
-<h3 align="center" style="font-size: 32px; font-weight: bold; text-decoration: none;">✨ Tech Stack ✨</h3>
+<h3 align="center" style="font-size: 45px; font-weight: bold; text-decoration: none;">✨ Tech Stack ✨</h3>
 
 <div align="center">
   <img src="https://img.shields.io/badge/java-5DACDF?style=for-the-badge&logo=java&logoColor=white">
