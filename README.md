@@ -29,6 +29,9 @@
 <br>
 
 <h3 align="center">📚 Studying 📚</h3>
+  <a href="https://velog.io/@psh666777">
+    <img src="https://img.shields.io/badge/Velog-1EBC8F?style=for-the-badge&logo=velog&logoColor=white" />&nbsp
+  </a>
 <div align="center">
   
 
@@ -49,9 +52,6 @@
 
 <h3 align="center">📫 Contact 📫</h3>
 <div align="center">
-  <a href="https://velog.io/@psh666777">
-    <img src="https://img.shields.io/badge/Velog-1EBC8F?style=for-the-badge&logo=velog&logoColor=white" />&nbsp
-  </a>
   <a href="mailto:psh666777@gmail.com">
     <img
       src="https://img.shields.io/badge/psh666777@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
