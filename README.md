@@ -44,7 +44,7 @@
 <div align="center">
   <img src="https://img.shields.io/badge/apachetomcat-apachetomcat.svg?style=for-the-badge&logo=apachetomcat&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/amazonwebservices-232F3E.svg?style=for-the-badge&logo=amazonwebservices&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/jenkins-#D24939.svg?style=for-the-badge&logo=jenkins&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/jenkins-D24939.svg?style=for-the-badge&logo=jenkins&logoColor=white" />&nbsp
 </div>
 
 <div align="center">
