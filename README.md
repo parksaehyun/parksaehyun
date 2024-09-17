@@ -1,6 +1,6 @@
 <!--타이틀 부분-->
 <div>
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=park%20sae hyun&fontSize=90" />
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=park%20sae%20hyun&fontSize=90" />
 </div>
 
 <!--내용 부분-->
