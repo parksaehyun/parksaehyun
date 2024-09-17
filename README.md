@@ -5,7 +5,7 @@
 </div>
 
 <!--내용 부분-->
-<h3 align="center" style="font-size: 45px; font-weight: bold; text-decoration: none;">✨ Tech Stack ✨</h3>
+<h2 align="center" text-decoration: none;">✨ Tech Stack ✨</h2>
 
 <div align="center">
   <img src="https://img.shields.io/badge/java-5DACDF?style=for-the-badge&logo=java&logoColor=white">
@@ -31,7 +31,7 @@
 
 <br>
 
-<h3 align="center" style="font-size: 32px; font-weight: bold; text-decoration: none;">📚 Studying 📚</h3>
+h2 align="center" text-decoration: none;">📚 Studying 📚</h2>
 <div align="center">
   <a href="https://velog.io/@psh666777">
     <img src="https://img.shields.io/badge/Velog-1EBC8F?style=for-the-badge&logo=velog&logoColor=white" />
@@ -41,7 +41,7 @@
 
 <br>
 
-<h3 align="center" style="font-size: 32px; font-weight: bold; text-decoration: none;">🛠 Tools 🛠</h3>
+<h2 align="center" text-decoration: none;">🛠 Tools 🛠</h2>
 <div align="center">
   <img src="https://img.shields.io/badge/apachetomcat-apachetomcat.svg?style=for-the-badge&logo=apachetomcat&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/amazonwebservices-232F3E.svg?style=for-the-badge&logo=amazonwebservices&logoColor=white" />&nbsp
@@ -69,7 +69,7 @@
 
 <br>
 
-<h3 align="center" style="font-size: 32px; font-weight: bold; text-decoration: none;">📫 Contact 📫</h3>
+<h2 align="center" text-decoration: none;">📫 Contact 📫</h2>
 <div align="center">
   <a href="mailto:psh666777@gmail.com">
     <img
