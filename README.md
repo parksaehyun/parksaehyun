@@ -29,10 +29,11 @@
 <br>
 
 <h3 align="center">📚 Studying 📚</h3>
+<div align="center">
   <a href="https://velog.io/@psh666777">
     <img src="https://img.shields.io/badge/Velog-1EBC8F?style=for-the-badge&logo=velog&logoColor=white" />&nbsp
   </a>
-<div align="center">
+</div>
   
 
 <br>
