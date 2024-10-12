@@ -42,8 +42,8 @@
 <h3 align="center">🛠 Tools 🛠</h3>
 <div align="center">
   <img src="https://img.shields.io/badge/apachetomcat-apachetomcat.svg?style=flat-square&logo=apachetomcat&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/amazonwebservices-232F3E.svg?style=flat-square&logo=amazonwebservices&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/jenkins-D24939.svg?style=flat-square&logo=jenkins&logoColor=white" />&nbsp
+<!--   <img src="https://img.shields.io/badge/amazonwebservices-232F3E.svg?style=flat-square&logo=amazonwebservices&logoColor=white" />&nbsp -->
+<!--   <img src="https://img.shields.io/badge/jenkins-D24939.svg?style=flat-square&logo=jenkins&logoColor=white" />&nbsp -->
 </div>
 
 <div align="center">
